@@ -1,1 +1,2 @@
 # odin-recipes
+Introductory project for the The Odin Project Foundations Course. This project is the culmination of the HTML Foundation section, utilizing basic HTML skills, including links, lists, and images. This project also included practice using Git and GitHub.
