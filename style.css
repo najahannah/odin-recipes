@@ -1,0 +1,30 @@
+* {
+    font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fffbea;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    border: 2px solid olive;
+    background-color: #b4dc23cd;
+    color: olive;
+    padding: 16px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+
+button {
+    background-color: palegoldenrod;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 0 24px;
+    border: 2px solid olive;
+}
+
+a {
+    color: olive;
+    background-color: palegoldenrod;
+    
+}
