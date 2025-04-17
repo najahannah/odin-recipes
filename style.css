@@ -7,12 +7,13 @@
 
 h1 {
     border: 2px solid olive;
-    background-color: #b4dc23cd;
+    background-color: palegoldenrod;
     color: olive;
     padding: 16px;
     text-align: center;
     border-radius: 8px;
-    
+    width: 600px;
+    margin: 24px auto;
 }
 
 button {
@@ -26,5 +27,8 @@ button {
 a {
     color: olive;
     background-color: palegoldenrod;
-    
+}
+
+div {
+    text-align: center;
 }
