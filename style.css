@@ -6,7 +6,7 @@
 
 
 h1 {
-    border: 2px solid olive;
+    
     background-color: palegoldenrod;
     color: olive;
     padding: 16px;
@@ -19,14 +19,16 @@ h1 {
 button {
     background-color: palegoldenrod;
     border-radius: 8px;
+    border-style: none;
     padding: 8px;
     margin: 0 24px;
-    border: 2px solid olive;
+    
 }
 
 a {
     color: olive;
     background-color: palegoldenrod;
+    text-decoration: none;
 }
 
 div {
